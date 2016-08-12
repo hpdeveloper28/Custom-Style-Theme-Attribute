@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="mediumTextStyle" format="reference" />
+    <attr name="largeTextStyle" format="reference" />
+
+    <declare-styleable name="CustomTextView">
+
+        <attr name="font_family" format="string" />
+        <!--- Your other attributes -->
+
+    </declare-styleable>
+</resources>
